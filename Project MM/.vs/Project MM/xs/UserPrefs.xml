@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{B6C5B86D-36EC-F13C-CFD2-9F273F0FF02F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Camera/CameraScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenuScript.cs" Line="34" Column="6" />
+      <File FileName="Assets/Scripts/NPC/EnemyDetectionScript.cs" />
+      <File FileName="Assets/Scripts/SavingScripts/SaveSystem.cs" />
+      <File FileName="Assets/Scripts/SavingScripts/PlayerData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Items/ItemInventory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SavingScripts/MenuGameLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PuzzleScripts/ResetSwitchScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PuzzleScripts/ResetSwitchDetectorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PlayerInteractionScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/PlayerScript.cs" Line="272" Column="14" />
+      <File FileName="Assets/Scripts/Items/PickUpSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NPC/WormWithMouthScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NPC/Baracko.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Items/ItemPlacementScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NPC/TraderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Current controlls.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Camera/HallwayCameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Camera/CameraPositionSizeHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NPC/wormAttackDetection.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TutorialScript.cs" />
+      <File FileName="Assets/Scripts/WinDoor.cs" />
+      <File FileName="Assets/Scripts/NPC/SpikeScript.cs" />
+      <File FileName="Assets/Scripts/DestroyScript.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/Camera/CameraScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f691cfd-985d-4773-8fcf-b81ad1caccaf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Door
+  - Boss Door
+  - Collectable
+  - Worm
+  - Attack
+  - Monument
+  - Camera Mover
+  - Pause Screen
+  - Item Placement
+  - Bomb
+  - Unblockable Attack
+  - Corpse
+  - Reset Switch
+  - Lever
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Worm
+  - Player
+  - Boss
+  - Walls
+  - Attack
+  - PuzzleBox
+  - PuzzleLever
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

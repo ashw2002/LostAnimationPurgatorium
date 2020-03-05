@@ -1,0 +1,13 @@
+{
+    "name": "Unity.Cloud.UserReporting.EditorTests",
+    "references": [
+        "Unity.Cloud.UserReporting.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
