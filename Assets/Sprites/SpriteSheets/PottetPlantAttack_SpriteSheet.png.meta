@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: ca4a6f14a8a93405c9dbba82b16e9140
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3163674757535218058
+    second: PottetPlantAttack_SpriteSheet_0
+  - first:
+      213: -2036718980267151545
+    second: PottetPlantAttack_SpriteSheet_1
+  - first:
+      213: -512275900877361044
+    second: PottetPlantAttack_SpriteSheet_2
+  - first:
+      213: -3462644130148505217
+    second: PottetPlantAttack_SpriteSheet_3
+  - first:
+      213: 8506265128548181686
+    second: PottetPlantAttack_SpriteSheet_4
+  - first:
+      213: -605903947588707285
+    second: PottetPlantAttack_SpriteSheet_5
+  - first:
+      213: -4538857280654427629
+    second: PottetPlantAttack_SpriteSheet_6
+  - first:
+      213: -1568740656226665433
+    second: PottetPlantAttack_SpriteSheet_5
+  - first:
+      213: 7955179278007885100
+    second: PottetPlantAttack_SpriteSheet_6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PottetPlantAttack_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.75, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be93f0fa4e0004c92890b1de6ae24679
+      internalID: 3163674757535218058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PottetPlantAttack_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 39
+        height: 30
+      alignment: 9
+      pivot: {x: 0.74308425, y: 0.5769714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d21cf3b512b447ea9a7af56548a8072
+      internalID: -2036718980267151545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PottetPlantAttack_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 59
+        height: 30
+      alignment: 9
+      pivot: {x: 0.513012, y: 0.5410095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8426dc4c80db04dad812683deabcba72
+      internalID: -512275900877361044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PottetPlantAttack_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 46
+        height: 31
+      alignment: 9
+      pivot: {x: 0.64878213, y: 0.5479634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ed2366ce1e41369770c25cd924a48
+      internalID: -3462644130148505217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PottetPlantAttack_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.69901085, y: 0.57029307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4a44830b0394fdb84c0fd571eab3d1
+      internalID: 8506265128548181686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PottetPlantAttack_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 46
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6379952, y: 0.6218743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53713df6db1fc4a45b96aba5742ca0df
+      internalID: -605903947588707285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PottetPlantAttack_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7418127, y: 0.5553467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51fba1d837fc406382eef066427ea6b
+      internalID: -4538857280654427629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PottetPlantAttack_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 41
+        height: 28
+      alignment: 9
+      pivot: {x: 0.7083093, y: 0.6122705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc964f64b3b84e6eb24fab9d933dcaf
+      internalID: -1568740656226665433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PottetPlantAttack_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.68955266, y: 0.6137579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d6467c9282460480308e1b13b8dbc
+      internalID: 7955179278007885100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 49e94357eb1e5452292fd8a490e47038
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

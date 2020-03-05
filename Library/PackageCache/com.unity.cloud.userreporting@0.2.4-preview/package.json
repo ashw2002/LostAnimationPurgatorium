@@ -1,0 +1,13 @@
+{
+  "name": "com.unity.cloud.userreporting",
+  "displayName": "Unity User Reporting",
+  "version": "0.2.4-preview",
+  "unity": "2018.3",
+  "description": "This package provides a client for Unity User Reporting which is part of Unity Cloud Diagnostics. Go to Window > User Reporting > Import Packages to import the User Reporting assets.",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.cloud.userreporting.git",
+    "revision": "1e06bfb9394c0c2cb56cb705b4cd55c64fc1e7d8"
+  }
+}

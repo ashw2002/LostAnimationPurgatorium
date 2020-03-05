@@ -3,7 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Door
+  - Boss Door
+  - Collectable
+  - Worm
+  - Attack
+  - Monument
+  - Camera Mover
+  - Pause Screen
+  - Item Placement
+  - Bomb
+  - Unblockable Attack
+  - Corpse
+  - Reset Switch
+  - Lever
   layers:
   - Default
   - TransparentFX
@@ -13,13 +28,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Worm
+  - Player
+  - Boss
+  - Walls
+  - Attack
+  - PuzzleBox
+  - PuzzleLever
   - 
   - 
   - 
