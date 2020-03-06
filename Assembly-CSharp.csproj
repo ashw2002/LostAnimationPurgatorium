@@ -156,14 +156,14 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>/Users/20westricka/Desktop/purgatoriumGitProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Cloud.UserReporting.Editor">
+      <HintPath>/Users/20westricka/Desktop/purgatoriumGitProject/Library/ScriptAssemblies/Unity.Cloud.UserReporting.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Users/20westricka/Desktop/purgatoriumGitProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>/Users/20westricka/Desktop/purgatoriumGitProject/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Cloud.UserReporting.Editor">
-      <HintPath>/Users/20westricka/Desktop/purgatoriumGitProject/Library/ScriptAssemblies/Unity.Cloud.UserReporting.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Users/20westricka/Desktop/Unity installs/2019.1.14f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
